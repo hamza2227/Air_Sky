@@ -15099,7 +15099,8 @@ i[class^="flaticon-"]:before {
 
 .rlr-contact-form .form-control {
     border: 1px solid var(--gray-04);
-    color: var(--gray-05);
+    /* color: var(--gray-05); */
+    color: black;
 }
 
 .rlr-contact-form .form-control::-webkit-input-placeholder {
