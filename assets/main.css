@@ -9139,6 +9139,10 @@ i[class^="flaticon-"]:before {
     padding: var(--spacing-7);
 }
 
+.rlr-contact-detail-item div .rlr-contact-detail-item__desc{
+    line-height: 1.35rem !important;
+}
+
 .rlr-contact-detail-item__icon {
     background-color: var(--brand-01);
     display: grid;
@@ -19439,7 +19443,7 @@ body{
     /* width: 50%; */
     background-color: #1E1F2D;
     background-image: url('../assets/images/footer-bg.png');
-    padding: 42px;
+    padding: 20px;
     text-align: left;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
